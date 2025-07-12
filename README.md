@@ -38,6 +38,9 @@ If you're just starting your journey, it's highly recommended to begin with **[A
 
 ## 3. Udemy and Other Online Courses
 
+* **[Udemy: Android Development Courses](https://www.udemy.com/courses/search/?src=ukw&q=Android+Development)** — You can find a wide range of Android development courses on Udemy. Be sure to read the reviews and comments before purchasing, as some courses may be outdated or not clearly explained. However, there are also many high-quality courses available if you choose carefully.
+* **[Coursera: UX Design by Google](https://www.coursera.org/professional-certificates/google-ux-design)** — a specialized UX course from Google.
+
 ---
 
 <a name="recommended-books"></a>
