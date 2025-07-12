@@ -17,6 +17,9 @@ Whether you’re just starting out or leveling up your existing skills, this cur
 
 ---
 
+<img width="1024" height="1024" alt="714a6de2-d094-4f63-987a-919d3cbf8282" src="https://github.com/user-attachments/assets/ac56c7df-556f-4405-a74c-cd9946bc967b" />
+
+
 ## Table of Contents
 
 1. [Official Google Courses](#official-google-courses)
