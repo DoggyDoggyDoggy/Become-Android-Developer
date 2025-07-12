@@ -16,7 +16,7 @@ This repository is your one‑stop roadmap for launching a successful career in 
 Whether you’re just starting out or leveling up your existing skills, this curated collection will help you learn efficiently, build confidently, and connect with the Android developer ecosystem every step of the way.
 
 <p align="center">
-  <img width="600" alt="Android Developer Illustration" src="https://github.com/user-attachments/assets/e0d50125-d600-4ada-bb62-add7e985cbcf" />
+  <img width="1024" alt="Android Developer Illustration" src="https://github.com/user-attachments/assets/e0d50125-d600-4ada-bb62-add7e985cbcf" />
 </p>
 
 ---
