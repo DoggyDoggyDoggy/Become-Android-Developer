@@ -13,12 +13,13 @@ This repository is your one‑stop roadmap for launching a successful career in 
 - **UI/UX design resources** to help craft beautiful, user‑friendly interfaces  
 - **Must‑watch GitHub repositories** featuring sample code, libraries, and interview prep  
 
-Whether you’re just starting out or leveling up your existing skills, this curated collection will help you learn efficiently, build confidently, and connect with the Android developer ecosystem every step of the way.  
+Whether you’re just starting out or leveling up your existing skills, this curated collection will help you learn efficiently, build confidently, and connect with the Android developer ecosystem every step of the way.
+
+<p align="center">
+  <img width="600" alt="Android Developer Illustration" src="https://github.com/user-attachments/assets/e0d50125-d600-4ada-bb62-add7e985cbcf" />
+</p>
 
 ---
-
-<img width="1024" height="1024" alt="714a6de2-d094-4f63-987a-919d3cbf8282" src="https://github.com/user-attachments/assets/ac56c7df-556f-4405-a74c-cd9946bc967b" />
-
 
 ## Table of Contents
 
