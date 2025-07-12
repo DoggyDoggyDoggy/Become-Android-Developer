@@ -8,7 +8,7 @@ This repository provides a curated list of resources for anyone who wants to emb
 
 1. [Official Google Courses](#official-google-courses)
 2. [YouTube Channels](#youtube-channels)
-3. [Udemy and Other Online Courses](#online-courses)
+3. [Online Courses](#online-courses)
 4. [Recommended Books](#recommended-books)
 5. [Useful GitHub Repositories](#useful-github-repositories)
 
@@ -36,10 +36,10 @@ If you're just starting your journey, it's highly recommended to begin with **[A
 
 <a name="online-courses"></a>
 
-## 3. Udemy and Other Online Courses
-
-* **[Udemy: Android Development Courses](https://www.udemy.com/courses/search/?src=ukw&q=Android+Development)** — You can find a wide range of Android development courses on Udemy. Be sure to read the reviews and comments before purchasing, as some courses may be outdated or not clearly explained. However, there are also many high-quality courses available if you choose carefully.
+## 3. Online Courses
+* **[Google Play Academy — Certificates & Training](https://playacademy.withgoogle.com/certificate/)** — official free certification courses from Google to help you understand app growth, store listing optimization, monetization, policy compliance, and more.
 * **[Coursera: UX Design by Google](https://www.coursera.org/professional-certificates/google-ux-design)** — a specialized UX course from Google.
+* **[Udemy: Android Development Courses](https://www.udemy.com/courses/search/?src=ukw&q=Android+Development)** — You can find a wide range of Android development courses on Udemy. Be sure to read the reviews and comments before purchasing, as some courses may be outdated or not clearly explained. However, there are also many high-quality courses available if you choose carefully.
 
 ---
 
