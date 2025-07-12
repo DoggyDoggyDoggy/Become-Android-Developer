@@ -11,6 +11,7 @@ This repository provides a curated list of resources for anyone who wants to emb
 3. [Udemy and Other Online Courses](#online-courses)
 4. [Recommended Books](#recommended-books)
 5. [Practical Tips](#practical-tips)
+6. [Useful GitHub Repositories](#useful-github-repositories)
 
 ---
 
@@ -64,6 +65,15 @@ If you're just starting your journey, it's highly recommended to begin with **[A
 * **Join developer communities**: forums, Slack groups, Telegram channels.
 * **Publish your projects on GitHub** and seek feedback.
 * **Read the official Android documentation** regularly.
+
+---
+
+<a name="useful-github-repositories"></a>
+
+## 6. Useful GitHub Repositories
+
+* **[android/compose-samples](https://github.com/android/compose-samples)** — official sample projects from the Android team demonstrating best practices with Jetpack Compose. Great for learning Compose by exploring real, well-structured codebases.
+* **[SmartToolFactory/Jetpack-Compose-Tutorials](https://github.com/SmartToolFactory/Jetpack-Compose-Tutorials)** — a large collection of practical Jetpack Compose examples, components, animations, and layouts. Very useful for learning by doing.
 
 ---
 
