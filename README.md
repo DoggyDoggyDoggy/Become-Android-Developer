@@ -10,8 +10,7 @@ This repository provides a curated list of resources for anyone who wants to emb
 2. [YouTube Channels](#youtube-channels)
 3. [Udemy and Other Online Courses](#online-courses)
 4. [Recommended Books](#recommended-books)
-5. [Practical Tips](#practical-tips)
-6. [Useful GitHub Repositories](#useful-github-repositories)
+5. [Useful GitHub Repositories](#useful-github-repositories)
 
 ---
 
@@ -56,18 +55,6 @@ If you're just starting your journey, it's highly recommended to begin with **[A
 
 ---
 
-<a name="practical-tips"></a>
-
-## 5. Practical Tips
-
-* **Practice is key**: build small projects, clone existing apps, and experiment.
-* **Start with Google’s free courses** to establish a solid foundation.
-* **Join developer communities**: forums, Slack groups, Telegram channels.
-* **Publish your projects on GitHub** and seek feedback.
-* **Read the official Android documentation** regularly.
-
----
-
 <a name="useful-github-repositories"></a>
 
 ## 6. Useful GitHub Repositories
@@ -76,6 +63,8 @@ If you're just starting your journey, it's highly recommended to begin with **[A
 * **[SmartToolFactory/Jetpack-Compose-Tutorials](https://github.com/SmartToolFactory/Jetpack-Compose-Tutorials)** — a large collection of practical Jetpack Compose examples, components, animations, and layouts. Very useful for learning by doing.
 * **[vinaygaba/Learn-Jetpack-Compose-By-Example](https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example)** — a hands-on guide with dozens of Jetpack Compose examples, covering layouts, animations, state, and more. Perfect for exploring Compose piece by piece.
 * **[Foso/Jetpack‑Compose‑Playground — a playground](https://github.com/Foso/Jetpack-Compose-Playground)** — full of small reusable Composables, layout patterns, and UI experiments—great for quickly testing and learning UI building blocks.
+* **[jetpack-compose/jetpack-compose-awesome](https://github.com/jetpack-compose/jetpack-compose-awesome)** — an extensive, community-curated list of Jetpack Compose libraries, tools, articles, sample projects, and learning resources. A great starting point to discover what's possible with Compose.
+* **[Gurupreet/ComposeCookBook](https://github.com/Gurupreet/ComposeCookBook)** — a comprehensive collection of Jetpack Compose UI components, animations, layouts, and full app examples. Great for understanding how to build beautiful and functional UIs with Compose.
 ---
 
 > Contributions welcome! If you know of additional high-quality resources (with links), feel free to open a Pull Request. 😊
