@@ -99,6 +99,28 @@ Leverage Grok, ChatGPT, Gemini (etc.) not for blind copy‑paste, but as a tool 
 
 ---
 
+### Tip 3: Practice Consistently with Short, Regular Sessions  
+Instead of cramming for hours at a time, dedicate a fixed slot every day—30 to 60 minutes—to coding.  
+
+- **Build lasting habits.** Daily practice creates neural pathways that help you internalize syntax and workflows much more effectively than occasional marathon sessions.  
+- **Improve retention.** Short, focused sessions reinforce what you’ve learned and reduce the forgetting curve, so concepts stick longer.  
+- **Prevent burnout.** Regular, manageable study blocks keep you energized and motivated, whereas long, infrequent sprints can lead to fatigue and frustration.  
+- **Track steady progress.** Seeing small wins each day—fixing a bug, writing a function, mastering a UI component—builds confidence and momentum faster than sporadic deep dives.  
+- **Adapt and iterate.** Frequent touchpoints let you quickly identify gaps in knowledge and adjust your learning plan, ensuring continuous improvement.  
+
+---
+
+### Tip 4: Explore Job Listings to Identify In‑Demand Skills  
+Don’t wait until you’re job‑hunting to figure out what employers want—start by browsing positions now to guide your learning path.
+
+- **Scan major job boards.** Regularly check sites like LinkedIn, Indeed, Glassdoor, and company career pages for “Android Developer” roles.  
+- **Note recurring requirements.** Pay attention to keywords that pop up across listings—e.g., Kotlin, Jetpack Compose, REST APIs, MVVM, dependency injection.  
+- **Prioritize your learning.** If you see “Coroutines,” “Hilt,” and “Unit Testing” mentioned in most ads, make those part of your study plan before less‑common tools.  
+- **Shape your portfolio.** Build demo projects that showcase these in‑demand skills—employers will recognize exactly what they’re looking for.  
+- **Stay ahead of trends.** Revisit listings every few months to spot new frameworks or methodologies (e.g., Compose Multiplatform, Jetpack DataStore) so your skill set remains current.  
+
+---
+
 <a name="app"></a>
 
 ## 7. First App Ideas (Sorted by Difficulty)
