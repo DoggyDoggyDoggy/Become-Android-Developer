@@ -57,7 +57,7 @@ If you're just starting your journey, it's highly recommended to begin with **[A
 
 <a name="useful-github-repositories"></a>
 
-## 6. Useful GitHub Repositories
+## 5. Useful GitHub Repositories
 
 * **[android/compose-samples](https://github.com/android/compose-samples)** — official sample projects from the Android team demonstrating best practices with Jetpack Compose. Great for learning Compose by exploring real, well-structured codebases.
 * **[SmartToolFactory/Jetpack-Compose-Tutorials](https://github.com/SmartToolFactory/Jetpack-Compose-Tutorials)** — a large collection of practical Jetpack Compose examples, components, animations, and layouts. Very useful for learning by doing.
