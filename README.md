@@ -39,7 +39,6 @@ If you're just starting your journey, it's highly recommended to begin with **[A
 
 ## 3. Online Courses
 * **[Google Play Academy — Certificates & Training](https://playacademy.withgoogle.com/certificate/)** — official free certification courses from Google to help you understand app growth, store listing optimization, monetization, policy compliance, and more.
-* **[Coursera: UX Design by Google](https://www.coursera.org/professional-certificates/google-ux-design)** — a specialized UX course from Google.
 * **[Programming Fundamentals in Kotlin (Meta)](https://www.coursera.org/learn/meta-programming-fundamentals-kotlin)** — a short introductory course from Meta that covers the basics of Kotlin and object-oriented programming. Ideal for those new to Kotlin.
 * **[Advanced Programming in Kotlin (Meta)](https://www.coursera.org/learn/advanced-programming-in-kotlin)** — a short course by Meta covering advanced Kotlin topics including functional programming, generics, and more. Useful for strengthening your Kotlin foundation.
 * **[Udemy: Android Development Courses](https://www.udemy.com/courses/search/?src=ukw&q=Android+Development)** — You can find a wide range of Android development courses on Udemy. Be sure to read the reviews and comments before purchasing, as some courses may be outdated or not clearly explained. However, there are also many high-quality courses available if you choose carefully.
