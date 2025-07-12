@@ -13,8 +13,9 @@ This repository provides a curated list of resources for anyone who wants to emb
 5. [Roadmap](#roadmap)
 6. [Practical Tips](#tips)
 7. [First App Ideas](#app)
-8. [UI/UX Resources](#ui-ux-resources)
-9. [Useful GitHub Repositories](#useful-github-repositories)
+8. [Community](#community)
+9. [UI/UX Resources](#ui-ux-resources)
+10. [Useful GitHub Repositories](#useful-github-repositories)
 
 ---
 
@@ -167,11 +168,20 @@ Leverage Grok, ChatGPT, Gemini (etc.) not for blind copy‑paste, but as a tool 
 
 *Choose the project that matches your current skill level and gradually step up. Each app will teach you core Android concepts and give you confidence for real‑world development!*
 
+<a name="community"></a>
+
+---
+
+## 8. Community
+
+* [Discord](https://discord.gg/tH5uqmtC) – Join the Android Developers community  
+* [Reddit r/androiddev](https://www.reddit.com/r/androiddev/) – Discussions, Q&A, and news  
+
 ---
 
 <a name="ui-ux-resources"></a>
 
-## 8. UI/UX Resources
+## 9. UI/UX Resources
 
 * **[Figma Crash Course Playlist](https://www.youtube.com/playlist?list=PLkIGXJqxff1_MFE3-7mrHbhC0yMrF9fE7)** — a comprehensive series of video tutorials on Figma covering design fundamentals, prototyping, and UI best practices. While some video are lengthy (up to 10 hours), they provide in-depth training for mastering UI/UX concepts.
 
@@ -181,7 +191,7 @@ Leverage Grok, ChatGPT, Gemini (etc.) not for blind copy‑paste, but as a tool 
 
 <a name="useful-github-repositories"></a>
 
-## 9. Useful GitHub Repositories
+## 10. Useful GitHub Repositories
 
 * **[android/compose-samples](https://github.com/android/compose-samples)** — official sample projects from the Android team demonstrating best practices with Jetpack Compose. Great for learning Compose by exploring real, well-structured codebases.
 * **[DoggyDoggyDoggy/Android-Interview-Questions](https://github.com/DoggyDoggyDoggy/Android-Interview-Questions)** — a structured and categorized list of Android interview questions covering Kotlin, architecture, coroutines, testing, and more. Great for preparing for technical interviews.
