@@ -20,13 +20,7 @@ Whether you’re just starting out or leveling up your existing skills, this cur
     src="https://github.com/user-attachments/assets/e0d50125-d600-4ada-bb62-add7e985cbcf"
     alt="Android Developer Illustration"
     width="600"
-    style="
-      display: block;
-      margin: 2em auto;
-      border-radius: 16px;
-      border: 4px solid #A78BFA;
-    "
-  />
+    />
 </p>
 
 ---
