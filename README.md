@@ -74,7 +74,8 @@ If you're just starting your journey, it's highly recommended to begin with **[A
 
 * **[android/compose-samples](https://github.com/android/compose-samples)** — official sample projects from the Android team demonstrating best practices with Jetpack Compose. Great for learning Compose by exploring real, well-structured codebases.
 * **[SmartToolFactory/Jetpack-Compose-Tutorials](https://github.com/SmartToolFactory/Jetpack-Compose-Tutorials)** — a large collection of practical Jetpack Compose examples, components, animations, and layouts. Very useful for learning by doing.
-
+* **[vinaygaba/Learn-Jetpack-Compose-By-Example](https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example)** — a hands-on guide with dozens of Jetpack Compose examples, covering layouts, animations, state, and more. Perfect for exploring Compose piece by piece.
+* **[Foso/Jetpack‑Compose‑Playground — a playground](https://github.com/Foso/Jetpack-Compose-Playground)** — full of small reusable Composables, layout patterns, and UI experiments—great for quickly testing and learning UI building blocks.
 ---
 
 > Contributions welcome! If you know of additional high-quality resources (with links), feel free to open a Pull Request. 😊
