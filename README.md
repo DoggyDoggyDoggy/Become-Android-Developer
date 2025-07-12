@@ -12,8 +12,9 @@ This repository provides a curated list of resources for anyone who wants to emb
 4. [Recommended Books](#recommended-books)
 5. [Roadmap](#roadmap)
 6. [Practical Tips](#tips)
-7. [UI/UX Resources](#ui-ux-resources)
-8. [Useful GitHub Repositories](#useful-github-repositories)
+7. [First App Ideas](#app)
+8. [UI/UX Resources](#ui-ux-resources)
+9. [Useful GitHub Repositories](#useful-github-repositories)
 
 ---
 
@@ -97,9 +98,80 @@ Leverage Grok, ChatGPT, Gemini (etc.) not for blind copy‑paste, but as a tool 
 
 ---
 
+<a name="app"></a>
+
+## 7. First App Ideas (Sorted by Difficulty)
+
+### Beginner
+
+1. **Calculator**  
+   **What you’ll learn:**  
+   - Building a simple UI (buttons, TextViews/Compose Text)  
+   - State management for input and result  
+   - Implementing basic arithmetic logic (add, subtract, multiply, divide)  
+   - Handling edge cases (division by zero, multiple operations)
+
+2. **Tic‑Tac‑Toe**  
+   **What you’ll learn:**  
+   - Grid layouts with ConstraintLayout or Compose LazyVerticalGrid  
+   - Game state management and turn logic  
+   - Detecting win/draw conditions  
+   - Resetting and persisting game state across rotations or process death
+
+---
+
+### Intermediate
+
+3. **To‑Do List App**  
+   **What you’ll learn:**  
+   - Building dynamic lists with RecyclerView or Compose LazyColumn  
+   - Local data persistence using Room (entities, DAOs, database)  
+   - CRUD operations (create, read, update, delete tasks)  
+   - Form validation and user input handling
+
+4. **Recipes App**  
+   **What you’ll learn:**  
+   - Loading JSON data from assets or a remote endpoint  
+   - Displaying a list of items with images and descriptions  
+   - Implementing search and filter functionality  
+   - Navigation between list and detail screens (Jetpack Navigation)
+
+5. **Weather App**  
+   **What you’ll learn:**  
+   - Consuming a REST API with Retrofit + OkHttp  
+   - JSON parsing with Moshi or Gson  
+   - Displaying current conditions and a multi‑day forecast  
+   - Handling network errors, loading states, and caching responses
+
+---
+
+### Advanced
+
+6. **Chat Application (Firebase)**  
+   **What you’ll learn:**  
+   - User authentication (Firebase Auth: email/password, Google Sign‑In)  
+   - Real‑time messaging with Firestore or Realtime Database  
+   - Uploading and displaying images or attachments  
+   - Push notifications via Firebase Cloud Messaging  
+   - Presence management (online/offline status)
+
+7. **Media Player**  
+   **What you’ll learn:**  
+   - Playing audio/video with ExoPlayer  
+   - Background playback and MediaSession integration  
+   - Custom notification controls for playback  
+   - Downloading and caching media files  
+   - Handling audio focus and different screen sizes/orientations
+
+---
+
+*Choose the project that matches your current skill level and gradually step up. Each app will teach you core Android concepts and give you confidence for real‑world development!*
+
+---
+
 <a name="ui-ux-resources"></a>
 
-## 7. UI/UX Resources
+## 8. UI/UX Resources
 
 * **[Figma Crash Course Playlist](https://www.youtube.com/playlist?list=PLkIGXJqxff1_MFE3-7mrHbhC0yMrF9fE7)** — a comprehensive series of video tutorials on Figma covering design fundamentals, prototyping, and UI best practices. While some video are lengthy (up to 10 hours), they provide in-depth training for mastering UI/UX concepts.
 
@@ -109,7 +181,7 @@ Leverage Grok, ChatGPT, Gemini (etc.) not for blind copy‑paste, but as a tool 
 
 <a name="useful-github-repositories"></a>
 
-## 8. Useful GitHub Repositories
+## 9. Useful GitHub Repositories
 
 * **[android/compose-samples](https://github.com/android/compose-samples)** — official sample projects from the Android team demonstrating best practices with Jetpack Compose. Great for learning Compose by exploring real, well-structured codebases.
 * **[DoggyDoggyDoggy/Android-Interview-Questions](https://github.com/DoggyDoggyDoggy/Android-Interview-Questions)** — a structured and categorized list of Android interview questions covering Kotlin, architecture, coroutines, testing, and more. Great for preparing for technical interviews.
