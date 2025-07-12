@@ -11,8 +11,9 @@ This repository provides a curated list of resources for anyone who wants to emb
 3. [Online Courses](#online-courses)
 4. [Recommended Books](#recommended-books)
 5. [Roadmap](#roadmap)
-6. [UI/UX Resources](#ui-ux-resources)
-7. [Useful GitHub Repositories](#useful-github-repositories)
+6. [Practical Tips](#tips)
+7. [UI/UX Resources](#ui-ux-resources)
+8. [Useful GitHub Repositories](#useful-github-repositories)
 
 ---
 
@@ -67,9 +68,25 @@ If you're just starting your journey, it's highly recommended to begin with **[A
 
 ---
 
+<a name="tips"></a>
+
+## 6. Practical Tips
+
+When learning Android development, **practice is everything**. Reading books, taking courses, or watching tutorials won’t by themselves turn you into a developer — **writing code will**. Think of coding like an artist learning to draw: you only get better by putting pencil to paper and sketching, sketching, sketching.
+
+- **Spend most of your time coding.** Instead of passively consuming content, build small apps and features — todo‑lists, simple games, weather widgets.  
+- **Embrace mistakes.** Every bug or crash is a lesson. Debugging trains you in how Android really works.  
+- **Iterate and refactor.** Revisit old code to apply new patterns, clean it up, and make it more efficient or more idiomatic.  
+- **Balance theory with hands‑on.** Knowing design patterns, architecture flavors (MVVM, Clean Architecture) and Kotlin features is important — but those concepts only solidify once you apply them in real code.  
+- **Build end‑to‑end.** Even a minimal app teaches you the full flow — UI, business logic, data storage, networking, and deployment.
+
+By making coding the centerpiece of your learning journey, you’ll accelerate your skills, build confidence, and be ready to tackle complex Android challenges.
+
+---
+
 <a name="ui-ux-resources"></a>
 
-## 6. UI/UX Resources
+## 7. UI/UX Resources
 
 * **[Figma Crash Course Playlist](https://www.youtube.com/playlist?list=PLkIGXJqxff1_MFE3-7mrHbhC0yMrF9fE7)** — a comprehensive series of video tutorials on Figma covering design fundamentals, prototyping, and UI best practices. While some video are lengthy (up to 10 hours), they provide in-depth training for mastering UI/UX concepts.
 
@@ -79,7 +96,7 @@ If you're just starting your journey, it's highly recommended to begin with **[A
 
 <a name="useful-github-repositories"></a>
 
-## 7. Useful GitHub Repositories
+## 8. Useful GitHub Repositories
 
 * **[android/compose-samples](https://github.com/android/compose-samples)** — official sample projects from the Android team demonstrating best practices with Jetpack Compose. Great for learning Compose by exploring real, well-structured codebases.
 * **[DoggyDoggyDoggy/Android-Interview-Questions](https://github.com/DoggyDoggyDoggy/Android-Interview-Questions)** — a structured and categorized list of Android interview questions covering Kotlin, architecture, coroutines, testing, and more. Great for preparing for technical interviews.
