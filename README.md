@@ -121,6 +121,16 @@ Don’t wait until you’re job‑hunting to figure out what employers want—st
 
 ---
 
+### Tip 5: Brush Up on Data Structures & Algorithms for Interviews  
+Although everyday Android development relies on UI frameworks and architecture, many entry‑level roles—and especially FAANG interviews—still include DS&A questions.  
+
+- **Know when it matters.** DS&A challenges are more common for junior candidates and at FAANG‑level companies.  
+- **Focus on key topics.** Practice arrays, linked lists, hash maps, trees and basic dynamic programming.  
+- **Use coding platforms.** Solve problems on LeetCode, HackerRank or CodeSignal to build speed and confidence.  
+- **Practice regularly.** A few problems per week keeps your skills sharp without derailing your app‑building progress.  
+
+---
+
 <a name="app"></a>
 
 ## 7. First App Ideas (Sorted by Difficulty)
