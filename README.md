@@ -10,8 +10,9 @@ This repository provides a curated list of resources for anyone who wants to emb
 2. [YouTube Channels](#youtube-channels)
 3. [Online Courses](#online-courses)
 4. [Recommended Books](#recommended-books)
-5. [UI/UX Resources](#ui-ux-resources)
-6. [Useful GitHub Repositories](#useful-github-repositories)
+5. [Roadmap](#roadmap)
+6. [UI/UX Resources](#ui-ux-resources)
+7. [Useful GitHub Repositories](#useful-github-repositories)
 
 ---
 
@@ -57,9 +58,18 @@ If you're just starting your journey, it's highly recommended to begin with **[A
 
 ---
 
+<a name="roadmap"></a>
+
+## 5. Roadmap
+
+* **[Android Roadmap on roadmap.sh](https://roadmap.sh/android)** — visual guide outlining the skills and tools you should learn in order to become an Android developer, from Kotlin basics to advanced architecture.
+* **[skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap)** — a community-maintained roadmap repository providing detailed paths, tutorials, and links for each stage of Android development.
+
+---
+
 <a name="ui-ux-resources"></a>
 
-## 5. UI/UX Resources
+## 6. UI/UX Resources
 
 * **[Figma Crash Course Playlist](https://www.youtube.com/playlist?list=PLkIGXJqxff1_MFE3-7mrHbhC0yMrF9fE7)** — a comprehensive series of video tutorials on Figma covering design fundamentals, prototyping, and UI best practices. While some video are lengthy (up to 10 hours), they provide in-depth training for mastering UI/UX concepts.
 
@@ -69,7 +79,7 @@ If you're just starting your journey, it's highly recommended to begin with **[A
 
 <a name="useful-github-repositories"></a>
 
-## 6. Useful GitHub Repositories
+## 7. Useful GitHub Repositories
 
 * **[android/compose-samples](https://github.com/android/compose-samples)** — official sample projects from the Android team demonstrating best practices with Jetpack Compose. Great for learning Compose by exploring real, well-structured codebases.
 * **[DoggyDoggyDoggy/Android-Interview-Questions](https://github.com/DoggyDoggyDoggy/Android-Interview-Questions)** — a structured and categorized list of Android interview questions covering Kotlin, architecture, coroutines, testing, and more. Great for preparing for technical interviews.
