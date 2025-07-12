@@ -47,6 +47,9 @@ If you're just starting your journey, it's highly recommended to begin with **[A
 
 ## 4. Recommended Books
 
+* **[Kotlin in Action](https://www.amazon.com.au/Kotlin-Action-Dmitry-Jemerov/dp/1617293296)** — a detailed and well-structured guide to mastering Kotlin. Ideal for both beginners and experienced developers who want to write idiomatic and efficient Kotlin code.
+* **[Jetpack Compose 1.7 Essentials](https://www.amazon.com.au/Jetpack-Compose-1-7-Essentials-Developing/dp/1965764045)** — a practical book focused on building Android apps with Jetpack Compose, covering essential concepts and tools for creating modern UIs.
+
 ---
 
 <a name="practical-tips"></a>
