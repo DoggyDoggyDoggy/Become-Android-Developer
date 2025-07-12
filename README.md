@@ -47,11 +47,6 @@ If you're just starting your journey, it's highly recommended to begin with **[A
 
 ## 4. Recommended Books
 
-* **[Android Programming: The Big Nerd Ranch Guide](https://www.bignerdranch.com/books/android-programming-the-big-nerd-ranch-guide-4th-edition/)** — a beginner-friendly handbook.
-* **[Kotlin in Action](https://www.manning.com/books/kotlin-in-action)** — a deep dive into Kotlin language features.
-* **[Effective Java (3rd Edition)](https://www.informit.com/store/effective-java-9780134686097)** — best practices in Java (valuable for understanding the platform).
-* **[Clean Code](https://www.pearson.com/us/higher-education/program/Robert-C-Martin-Clean-Code-A-Handbook-of-Agile-Software-Craftsmanship/PGM126748.html)** — principles of writing maintainable code.
-
 ---
 
 <a name="practical-tips"></a>
