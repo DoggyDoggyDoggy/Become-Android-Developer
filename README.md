@@ -58,6 +58,10 @@ If you're just starting your journey, it's highly recommended to begin with **[A
 * **[Easy Tuto](https://www.youtube.com/@EasyTuto1/videos)** — beginner-friendly channel with step-by-step tutorials on Kotlin, Jetpack Compose, Firebase, and more. Clear explanations and complete app projects make it perfect for those just starting out.
 * **[Philipp Lackner](https://www.youtube.com/c/PhilippLackner)** — high-quality tutorials on advanced Android topics such as Jetpack Compose, Clean Architecture, Dependency Injection, and testing. Great for developers who already know the basics and want to level up with real-world techniques and best practices.deep dives into architecture and modern practices.
 
+### Kotlin video courses
+
+* **[Kotlin Full Course – freeCodeCamp](https://www.youtube.com/watch?v=EExSSotojVI&list=PLBewgZ0s8b7-b6Ux5xrrozYMl4qiulQlL)** — a comprehensive 13-hour Kotlin course covering the fundamentals of the language, object-oriented programming, collections, functions, and more. Ideal for beginners and those switching from Java to Kotlin.
+
 ---
 
 <a name="online-courses"></a>
