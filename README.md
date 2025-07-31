@@ -243,7 +243,9 @@ Although everyday Android development relies on UI frameworks and architecture, 
 
 * [Discord](https://discord.gg/tH5uqmtC) – Join the Android Developers community  
 * [Reddit r/androiddev](https://www.reddit.com/r/androiddev/) – Discussions, Q&A, and news  
-
+* [Kotlin Discussions](https://discuss.kotlinlang.org/) – Official Kotlin forum for questions, announcements, and community support  
+* [Stack Overflow](https://stackoverflow.com/questions) – Ask questions and find answers on Kotlin and Android development  
+* [Kotlin Community Hub](https://kotlinlang.org/community/) – Links to Kotlin events, user groups, forums, and contribution opportunities
 ---
 
 <a name="ui-ux-resources"></a>
