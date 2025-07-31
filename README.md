@@ -269,6 +269,8 @@ Although everyday Android development relies on UI frameworks and architecture, 
 * **[jetpack-compose/jetpack-compose-awesome](https://github.com/jetpack-compose/jetpack-compose-awesome)** — an extensive, community-curated list of Jetpack Compose libraries, tools, articles, sample projects, and learning resources. A great starting point to discover what's possible with Compose.
 * **[Gurupreet/ComposeCookBook](https://github.com/Gurupreet/ComposeCookBook)** — a comprehensive collection of Jetpack Compose UI components, animations, layouts, and full app examples. Great for understanding how to build beautiful and functional UIs with Compose.
 * **[DoggyDoggyDoggy/Android-Interview-Questions](https://github.com/DoggyDoggyDoggy/Android-Interview-Questions)** — a structured and categorized list of Android interview questions covering Kotlin, architecture, coroutines, testing, and more. Great for preparing for technical interviews.
+* **[shinhyo/Compose-BreakingBad](https://github.com/shinhyo/Compose-BreakingBad)** — a clean architecture-based sample app using Jetpack Compose and MVVM, themed around the Breaking Bad TV show.
+* **[PatilShreyas/NotyKT](https://github.com/PatilShreyas/NotyKT)** — a fully functional note-taking app built with Kotlin Multiplatform Mobile (KMM), Jetpack Compose, Clean Architecture, and modern development practices.
 ---
 
 > Contributions welcome! If you know of additional high-quality resources (with links), feel free to open a Pull Request. 😊
