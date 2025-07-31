@@ -12,6 +12,7 @@ This repository is your one‑stop roadmap for launching a successful career in 
 - **Active community links** for instant support and networking  
 - **UI/UX design resources** to help craft beautiful, user‑friendly interfaces  
 - **Must‑watch GitHub repositories** featuring sample code, libraries, and interview prep  
+- **Open-Source Android Apps** showcasing full real-world projects to study architecture and best practices
 
 Whether you’re just starting out or leveling up your existing skills, this curated collection will help you learn efficiently, build confidently, and connect with the Android developer ecosystem every step of the way.
 
