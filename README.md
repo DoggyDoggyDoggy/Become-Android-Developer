@@ -288,6 +288,11 @@ Explore complete open-source Android apps built with Jetpack Compose, Kotlin Mul
 * **[louis-fri/SoMovie](https://github.com/louis-fri/SoMovie)** — a movie app using TMDb API, implementing modern practices like Compose, Hilt, and modular Clean Architecture.
 * **[Chesire/Nekome](https://github.com/Chesire/Nekome)** — a MyAnimeList client built with Jetpack Compose and showcasing advanced architecture, coroutines, and API integration.
 * **[skydoves/Pokedex](https://github.com/skydoves/Pokedex)** — a modern Pokedex app demonstrating Jetpack Compose, Hilt, Flow, and MVVM with impressive animations and UI design.
+* **[HabitRPG/habitica-android](https://github.com/HabitRPG/habitica-android)** — the official Android app for Habitica, a gamified task manager combining productivity and RPG elements.
+* **[muzei/muzei](https://github.com/muzei/muzei)** — a live wallpaper app that gently refreshes your home screen each day with famous works of art.
+* **[ferPrieto/SpaceX-prepare-for-Clean-Architecture-liftoff](https://github.com/ferPrieto/SpaceX-prepare-for-Clean-Architecture-liftoff)** — a sample SpaceX app demonstrating Clean Architecture, Kotlin, and modern Android development practices.
+* **[VladimirWrites/BLTaxi](https://github.com/VladimirWrites/BLTaxi)** — a simple ride-sharing app built with Kotlin and Jetpack Compose.
+* **[shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android)** — the Android client for Shadowsocks, a secure socks5 proxy, widely used for privacy and censorship circumvention.
 
 ---
 
