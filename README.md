@@ -57,10 +57,13 @@ If you're just starting your journey, it's highly recommended to begin with **[A
 * **[Stevdza-San](https://www.youtube.com/@StevdzaSan)** — well-structured tutorials focused on real-world Android development with Jetpack Compose, MVVM, Clean Architecture, Firebase, and modern Android practices. Great for both beginners and intermediate developers looking to build complete apps.
 * **[Easy Tuto](https://www.youtube.com/@EasyTuto1/videos)** — beginner-friendly channel with step-by-step tutorials on Kotlin, Jetpack Compose, Firebase, and more. Clear explanations and complete app projects make it perfect for those just starting out.
 * **[Philipp Lackner](https://www.youtube.com/c/PhilippLackner)** — high-quality tutorials on advanced Android topics such as Jetpack Compose, Clean Architecture, Dependency Injection, and testing. Great for developers who already know the basics and want to level up with real-world techniques and best practices.deep dives into architecture and modern practices.
+* **[Jovche Mitrejchevski](https://www.youtube.com/@jov_mit/videos)** — Kotlin and Android tutorials with a focus on clean architecture, Jetpack Compose, and modern development techniques. Offers concise explanations and solid code examples.
+* **[Master Coding](https://www.youtube.com/@MasterCodingTeam/videos)** — a growing channel with practical Kotlin and Android tutorials, including Jetpack Compose, Firebase integration, and full app builds. Suitable for beginners and intermediate learners.
 
 ### Kotlin video courses
 
 * **[Kotlin Full Course – freeCodeCamp](https://www.youtube.com/watch?v=EExSSotojVI&list=PLBewgZ0s8b7-b6Ux5xrrozYMl4qiulQlL)** — a comprehensive 13-hour Kotlin course covering the fundamentals of the language, object-oriented programming, collections, functions, and more. Ideal for beginners and those switching from Java to Kotlin.
+* **[Kotlin Crash Course 2025 – Philipp Lackner](https://www.youtube.com/watch?v=dzUc9vrsldM)** — an up-to-date Kotlin crash course for beginners that introduces the language in a concise and practical way. Great for getting started with Kotlin in 2025.
 
 ---
 
