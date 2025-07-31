@@ -30,7 +30,7 @@ Whether you’re just starting out or leveling up your existing skills, this cur
 1. [Official Google Courses](#official-google-courses)
 2. [YouTube Channels](#youtube-channels)
 3. [Online Courses](#online-courses)
-4. [Recommended Books](#recommended-books)
+4. [Books](#books)
 5. [Roadmap](#roadmap)
 6. [Practical Tips](#tips)
 7. [First App Ideas](#app)
@@ -70,16 +70,23 @@ If you're just starting your journey, it's highly recommended to begin with **[A
 
 ---
 
-<a name="recommended-books"></a>
+<a name="books"></a>
 
-## 4. Recommended Books
-
+## 4. Books
+### Recommended Books
 * **[Kotlin in Action](https://www.amazon.com.au/Kotlin-Action-Dmitry-Jemerov/dp/1617293296)** — a detailed and well-structured guide to mastering Kotlin. Ideal for both beginners and experienced developers who want to write idiomatic and efficient Kotlin code.
 
 > ⚠️ Note: Jetpack Compose books can become outdated quickly as the framework evolves. As of 2025, *Jetpack Compose 1.7 Essentials* is one of the most up-to-date resources available.
 
 * **[Jetpack Compose 1.7 Essentials](https://www.amazon.com.au/Jetpack-Compose-1-7-Essentials-Developing/dp/1965764045)** — a practical book focused on building Android apps with Jetpack Compose, covering essential concepts and tools for creating modern UIs.
 
+### Kotlin language-focused
+* **[Kotlin Cookbook](https://www.amazon.com/Kotlin-Cookbook-Problem-Focused-Ken-Kousen/dp/1492046671)** — a collection of practical, problem-focused recipes for solving common Kotlin development challenges. Great for hands-on learners.
+* **[Atomic Kotlin](https://www.amazon.com/Atomic-Kotlin-Bruce-Eckel/dp/0981872557)** — a modular and example-rich introduction to Kotlin. Designed to build understanding step by step, perfect for both beginners and intermediate developers.
+* **[Head First Kotlin](https://www.amazon.com/Head-First-Kotlin-Brain-Friendly-Guide/dp/1491996692)** — a visual and interactive guide to Kotlin that makes learning approachable and engaging through the Head First teaching method.
+* **[Effective Kotlin](https://www.amazon.com/Effective-Kotlin-Best-Practices-Developers/dp/B0CHCWPPNP)** — a collection of best practices for writing clean, efficient, and maintainable Kotlin code. Ideal for those who already know the basics and want to go deeper.
+* **[The Joy of Kotlin](https://www.amazon.com/Joy-Kotlin-Pierre-Yves-Saumont/dp/1617295361)** — a deep dive into functional programming with Kotlin, helping you write safer and more expressive code through immutability and pure functions.
+* **[Kotlin Language Documentation (PDF)](https://kotlinlang.org/docs/kotlin-pdf.html)** — the official Kotlin documentation in downloadable PDF format. Great for offline reference and comprehensive coverage of language features.
 ---
 
 <a name="roadmap"></a>
