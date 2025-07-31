@@ -37,7 +37,7 @@ Whether you’re just starting out or leveling up your existing skills, this cur
 8. [Community](#community)
 9. [UI/UX Resources](#ui-ux-resources)
 10. [Useful GitHub Repositories](#useful-github-repositories)
-
+11. [Open-Source Android Apps](#open-source-android-apps)
 ---
 
 <a name="official-google-courses"></a>
@@ -269,8 +269,26 @@ Although everyday Android development relies on UI frameworks and architecture, 
 * **[jetpack-compose/jetpack-compose-awesome](https://github.com/jetpack-compose/jetpack-compose-awesome)** — an extensive, community-curated list of Jetpack Compose libraries, tools, articles, sample projects, and learning resources. A great starting point to discover what's possible with Compose.
 * **[Gurupreet/ComposeCookBook](https://github.com/Gurupreet/ComposeCookBook)** — a comprehensive collection of Jetpack Compose UI components, animations, layouts, and full app examples. Great for understanding how to build beautiful and functional UIs with Compose.
 * **[DoggyDoggyDoggy/Android-Interview-Questions](https://github.com/DoggyDoggyDoggy/Android-Interview-Questions)** — a structured and categorized list of Android interview questions covering Kotlin, architecture, coroutines, testing, and more. Great for preparing for technical interviews.
-* **[shinhyo/Compose-BreakingBad](https://github.com/shinhyo/Compose-BreakingBad)** — a clean architecture-based sample app using Jetpack Compose and MVVM, themed around the Breaking Bad TV show.
-* **[PatilShreyas/NotyKT](https://github.com/PatilShreyas/NotyKT)** — a fully functional note-taking app built with Kotlin Multiplatform Mobile (KMM), Jetpack Compose, Clean Architecture, and modern development practices.
+
+---
+
+<a name="open-source-android-apps"></a>
+
+## 11. Open-Source Android Apps
+
+Explore complete open-source Android apps built with Jetpack Compose, Kotlin Multiplatform, and modern architecture patterns:
+
+* **[shinhyo/Compose-BreakingBad](https://github.com/shinhyo/Compose-BreakingBad)** — Breaking Bad-themed app demonstrating MVVM, Clean Architecture, Jetpack Compose, Retrofit, and more.
+* **[PatilShreyas/NotyKT](https://github.com/PatilShreyas/NotyKT)** — a full-featured note-taking app using Kotlin Multiplatform Mobile (KMM), Jetpack Compose, Room, Ktor, and Clean Architecture.
+* **[michaldrabik/showly](https://github.com/michaldrabik/showly)** — an open-source TV show tracking app with modern Android development stack, beautiful UI, and Trakt.tv integration.
+* **[Hamza417/Inure](https://github.com/Hamza417/Inure)** — a powerful Android app manager with in-depth analysis features, built using Jetpack Compose and Material 3.
+* **[willowtreeapps/vocable-android](https://github.com/willowtreeapps/vocable-android)** — a voice communication app designed for accessibility, allowing users with speech difficulties to communicate using customizable phrases.
+* **[igorescodro/alkaa](https://github.com/igorescodro/alkaa)** — a simple and elegant habit tracker app using Jetpack Compose, Clean Architecture, Hilt, and Room.
+* **[phicdy/MyCuration](https://github.com/phicdy/MyCuration)** — an RSS reader app built with Jetpack Compose and Jetpack libraries, focusing on performance and offline reading.
+* **[louis-fri/SoMovie](https://github.com/louis-fri/SoMovie)** — a movie app using TMDb API, implementing modern practices like Compose, Hilt, and modular Clean Architecture.
+* **[Chesire/Nekome](https://github.com/Chesire/Nekome)** — a MyAnimeList client built with Jetpack Compose and showcasing advanced architecture, coroutines, and API integration.
+* **[skydoves/Pokedex](https://github.com/skydoves/Pokedex)** — a modern Pokedex app demonstrating Jetpack Compose, Hilt, Flow, and MVVM with impressive animations and UI design.
+
 ---
 
 > Contributions welcome! If you know of additional high-quality resources (with links), feel free to open a Pull Request. 😊
